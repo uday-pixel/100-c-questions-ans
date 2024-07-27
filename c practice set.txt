@@ -1,0 +1,805 @@
+	DATA TYPE AND VARIABLE 
+1)five friends name 
+
+2)five country name (new line)
+
+3)five city name
+
+4)five fav food name (new line)
+
+5)five fruit name 
+------------------------------------------------------------
+different code 
+3.4
+
+-----------------------
+different code 
+t
+-----------------------------
+different code 
+29 
+
+-----------------------------------------
+same code 
+67 
+o
+-9.8
+-3
+92
+-8.9
+34-5 
+
+--------------------------------------------------
+23*5 
+
+----------------------------------------
+56/2 
+
+-------------------------------------
+1+6+8+9
+
+-------
+34+67+3+89+12
+------------------------------------------
+34+(4*4)-8
+---------------------------------------------------------------
+3.1*6.7-(2.2*2.2)-5.4
+---------------------------------------------------------------
+2.3-7+(3.4*6)-2.3/2
+---------------------------------------------------------------
+23*2-9+34
+---------------------------------------------------------------
+4.5*7+(2.3-2)+34.6
+=======================================================
+number swap with third variable 
+
+
+number swap without third variable 
+
+1)check a number is greater than 10 or not ?
+
+2)check a number is greater than 50 or not ? 
+
+3)check a number is less than 100 or not ?
+
+4)check a number is even or odd ?
+
+5)check a number is divisible by 5 or not ? 
+
+6)check a number is dvisible by 72 or not ?
+
+
+7)when user input a then print apple  input is not matched
+
+8)when user input b then print ball input is not matched
+
+9)user input a character a :two number addition 
+
+10)user input a character s :two number substraction
+
+11)user input a character m :two number multiplication
+
+12)user input a character d :two number divide 
+
+13)user input a character s :two number swap without third variable 
+
+14)user input a character w :two number swap with third variable 
+
+15)input a number and a number is divisible by both 2 and 4 
+
+16)input a number and a number is divisible by anyone 2 and 9
+
+17)input a number and a number is divisible by multiple of 7  and 3. 
+
+18)check a age is valid for vote or not ? 
+
+19)input number 1 :one otherwise not match
+
+20)input number 4 :four otherwise not match
+-------------------------------------------------------------------
+21)input a number and check a number is divisible by 2 , 3, 4,6 both 
+
+22)input a number and check a number is divisible by 2 , 3, 4,6 anyone
+
+----------------------------------------------------------
+1)vowel and consonant 
+
+2)
+C program that simply asks the user to input a character and checks then print peak word:
+p,e,a,k :this is peak word 
+	input mismatch 
+
+3)
+C program that simply asks the user to input a character q,w,e,r,t,y,u,i,o,p and checks then print upper line otherwise input mismatch:
+
+q,w,e,r,t,y,u,i,o,p :upper line 
+	input mismatch 
+
+4)
+C program that simply asks the user to input a character a,s,d,,g,j,k,l and checks then print mid line otherwise input mismatch:
+
+a,s,d,,g,j,k,l :mid line 
+	input mismatch 
+
+5)
+C program that simply asks the user to input a character z,x,c,v,b,n,m and checks then print lower line otherwise input mismatch:
+
+z,x,c,v,b,n,m
+	input mismatch 
+
+6)
+ C program that asks the user to input a number between 1 and 5 and checks if the input is within this range then print this number is present otherwise not present:
+1--->5 between number 
+	input mismatch 
+
+7)
+ C program that asks the user to input a number between 11 and 20 and checks if the input is within this range then print this number is present otherwise not present:
+
+11--->20 between number 
+	input mismatch 
+
+8)
+ C program that asks the user to input a number between 23 and 56 and checks if the input is within this range then print this number is present otherwise not present:
+
+23--->56 between number 
+	input mismatch 
+
+9) 
+C program that asks the user to input marks for five subjects, checks if all marks are greater than 36, and if so, calculates the average. Otherwise, it prints "fail":
+
+five subject marks greater 36 
+	average calculate 
+fail  
+
+10) 
+C program that asks the user to input marks for five subjects, checks if all marks are greater than 33, and if so, calculates the average. Otherwise, it prints "fail":
+
+3 subject marks greater 33
+	percentage :print 
+
+fail 
+
+11)
+C program that asks the user to input marks for five subjects, calculates the percentage, and then checks if the percentage is between 75 and 99 to determine if the student is eligible for JEE:
+5 marks 
+	percentage :
+	75--->99 Eligible for JEE 
+C program to convert temperature from Fahrenheit to Celsius and Celsius to Fahrenheit
+celsius 
+f---->c 
+fahrenheit
+c---f 
+---------------------------------------
+Check whether the trainge , square , reactanlge (area & volume)
+->input area /volume 
+area 
+traingle square rectangle 
+square 
+--------------------------------------------
+C program to enter student marks and find percentage and grade
+A college has the following rules for the grading system:
+5 marks (grade + %)
+1. Below 25 – F
+2. 25 to 45 – E
+3. 45 to 50 – D
+4. 50 to 60 – C
+5. 60 to 80 – B 
+6. Above 80 – A
+--------------------------------------------
+Write a C program to read the roll no, name,fnname and marks of three subjects and calculate the total, percentage and division.
+Test Data :
+Input the Roll Number of the student :784
+student name : 
+fname:
+mname:
+address:
+contact:
+Input the marks of Physics, Chemistry and Computer Application : 70 80 90
+total: 
+precentage : % 
+division:
+--------------------------------------------
+salalry :
+holidays (1) =full salary 
+2-5 =5% 
+5-14 =10% 
+15 =50% 
+else =not salary 
+
+output : 
+name:
+address: 
+bank details: 
+salary : 
+alot :
+ holidays 
+-------------------------------------------
+electric city bill : 
+4 unit 
+40 
+1- 10 = 10% 
+11-20 =15% 
+21-40 =30% 
+50 =50% 
+
+output : 
+name:
+unit :3 
+amout 30 
+discout : 10% 
+total pay amount : 
+---------------------------------------------
+e :check even number 
+o :odd number 
+v :voter id 
+m :month 
+w :week days 
+c :calculator 
+m :marksheet 
+g :gender
+	m :male 
+	f :female 
+	other
+l :vowel and consonant 
+r :two number maximum (a and b which greater_
+h :three number maximum (a and b and c which one is maximum)
+s :swap 
+	w :with variable 
+	o :without variable 
+f :time of the day (24 hours )
+k :keyboard lines 
+-------------------------------------------------
+1)1--->10 number print 
+
+dry run +laptop 
+--------------------------------------------
+2)1----->100 number print 
+--------------------------------------------
+3)50---->1000 number print 
+--------------------------------------------
+4)34-->89 number print 
+--------------------------------------------
+5-----1 
+
+----------------------------------------------
+10----->1 
+
+dry run +laptop 
+----------------------------------------------
+100---->1
+----------------------------------------------
+50--->1
+----------------------------------------------
+78-----45 
+----------------------------------------------
+1---->10 number sum 
+
+dry run +laptop
+------------------------------------------------
+45----->89 number sum 
+------------------------------------------------
+1--->10 even 
+1--->100 even number 
+50-->100 even number 
+67--->89 even number 
+
+89--->67 even number 
+100--->1 even number 
+---------------------------
+1--->10 odd 
+1--->100 odd number 
+50-->100 odd number 
+67--->89 odd number 
+
+89--->67 odd number 
+100--->1 odd number 
+-----------------------------------------------------
+1----> 100 even number and sum 
+
+100--->1 odd number and sum 
+-----------------------------------------
+user starting point and ending point 
+1--->10 even number 
+-----------------------------------
+for loop
+
+
+count of digit 
+---------------------------------
+
+sum of digit :
+563 :
+
+--------------------------------------
+for loop :
+
+1)1--->10 number print 
+
+dry run +laptop 
+--------------------------------------------
+2)1----->100 number print 
+--------------------------------------------
+3)50---->1000 number print 
+--------------------------------------------
+4)34-->89 number print 
+--------------------------------------------
+5-----1 
+
+----------------------------------------------
+10----->1 
+
+dry run +laptop 
+----------------------------------------------
+100---->1
+----------------------------------------------
+50--->1
+----------------------------------------------
+78-----45 
+----------------------------------------------
+1---->10 number sum 
+
+dry run +laptop
+------------------------------------------------
+45----->89 number sum 
+------------------------------------------------
+1--->10 even 
+1--->100 even number 
+50-->100 even number 
+67--->89 even number 
+
+89--->67 even number 
+100--->1 even number 
+---------------------------
+1--->10 odd 
+1--->100 odd number 
+50-->100 odd number 
+67--->89 odd number 
+
+89--->67 odd number 
+100--->1 odd number 
+-----------------------------------------------------
+1----> 100 even number and sum 
+
+100--->1 odd number and sum 
+-----------------------------------------
+user starting point and ending point 
+1--->10 even number 
+-----------------------------------------
+*
+**
+***
+****
+*****
+dry run +laptop
+--------------------------------------------------
+*****
+****
+***
+**
+*
+--------------------------------------------------
+*
+**
+***
+****
+*****
+*****
+****
+***
+**
+*
+--------------------------------------------------
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+--------------------------------------------------
+*****
+****
+***
+**
+*
+*
+**
+***
+****
+*****
+--------------------------------------------------
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+--------------------------------------------------
+1
+12
+123
+1234
+12345 
+
+dry run + laptop 
+--------------------------------------------------
+1
+22
+333
+4444
+55555
+--------------------------------------------------
+1
+00
+111
+0000
+11111
+--------------------------------------------------
+1
+10
+101
+1010
+10101
+--------------------------------------------------
+1
+2 3 
+4 5 6 
+7 8 9 10 
+--------------------------------------------------
+1
+4 9 
+16 25 36 
+49 64 81 100
+--------------------------------------------------
+  *
+ **
+***
+#include<stdio.h>
+int main(){
+    int n;
+    printf("enterr row");
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++){
+       for(int s=n-1;s>=i;s--){
+           printf(" ");
+       }
+       for(int j=1;j<=i;j++){
+           printf("*");
+       }
+        printf("\n");
+    }
+    return 0;
+}
+------------------------------------------------------
+*****
+ ****
+  ***
+   **
+    *
+dry run +laptop
+-------------------------------------
+    *
+   **
+  ***
+ ****
+*****
+-------------------------------------
+    *
+   **
+  ***
+ ****
+*****
+*****
+ ****
+  ***
+   **
+    *
+-------------------------------------
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+---------------------------
+*****
+ ****
+  ***
+   **
+    *
+    *
+   **
+  ***
+ ****
+*****
+-----------------------------------------
+****
+****
+****
+****
+
+--------------------------------------------------
+1111
+2222
+3333
+4444
+
+--------------------------------------------------
+
+12345
+12345
+12345
+12345
+12345
+
+--------------------------------------------------
+10101
+10101
+10101
+10101
+10101
+----------------------------------
+1111
+0000
+1111
+0000
+1111
+----------------------------------
+1 2 3 4 5 
+6 7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 
+21 22 23 24 25 
+
+-----------------------------------------
+1 0 1 0 1 
+0 1 0 1 0
+1 0 1 0 1
+0 1 0 1 0 
+1 0 1 0 1 
+
+-------------------------------------------------
+###*
+##**
+#***
+****
+-------------------------------------------------
+****
+#***
+##**
+###*
+-------------------------------------------------
+###*
+##**
+#***
+****
+****
+#***
+##**
+###*
+-------------------------------------------------
+###*
+##**
+#***
+****
+#***
+##**
+###*
+--------------------------------------------------
+111*
+22**
+3***
+****
+--------------------------------------------------
+#include<stdio.h>
+int main(){
+    for(int i=1;i<=4;i++){
+        for(int j=1;j<=4;j++){
+            if(i==1 || i==4 || j==1 || j==4){
+                printf("*");
+            }
+            else{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+    return 0;
+}
+
+dry run +laptop 
+--------------------------------------------------------------
+   *
+  * *
+ * * * 
+* * * * 
+------------------------------------------
+* * * *
+ * * *
+  * *
+   *
+-------------------------------------------------
+   *
+  * *
+ * * * 
+* * * * 
+* * * *
+ * * *
+  * *
+   *
+-------------------------------------------------
+   *
+  * *
+ * * * 
+* * * * 
+ * * *
+  * *
+   *
+-------------------------------------------------
+* * * *
+ * * *
+  * *
+   *
+   *
+  * *
+ * * * 
+* * * * 
+
+-------------------------------------------------
+* * * *
+ * * *
+  * *
+   *
+  * *
+ * * * 
+* * * * 
+
+hello world through function :no return and no argument 
+
+---------------------------------------------------------
+no return and no argument :user input 
+add()
+sub()
+div()
+mod()
+multi()
+
+---------------------------------------------------------
+swap() :swap 
+even() :even 
+marksheet()  :marksheet 
+electicity() :electicity 
+week() :week 
+month() :month   
+
+--------------------------------------------------------
+p :pallindrme function call
+v :vowel function call 
+a :armstrong function call 
+r :reverse number function call 
+s :sum of digit function call 
+c :count function call 
+l :calculator function call 
+f :fibonacci function call 
+i :factorial function call 
+t :three number maximum 
+=============================================================
+no return and argument
+ 
+add()
+sub()
+div()
+mod()
+multi()
+
+---------------------------------------------------------
+swap() :swap 
+even() :even 
+marksheet()  :marksheet 
+electicity() :electicity 
+week() :week 
+month() :month   
+
+--------------------------------------------------------
+p :pallindrme function call
+v :vowel function call 
+a :armstrong function call 
+r :reverse number function call 
+s :sum of digit function call 
+c :count function call 
+l :calculator function call 
+f :fibonacci function call 
+i :factorial function call 
+t :three number maximum 
+return and no argument : 
+
+add()
+sub()
+div()
+mod()
+multi()
+---------------------------------------------------
+return and no argument : 
+
+swap() :swap 
+even() :even 
+marksheet()  :marksheet 
+electicity() :electicity 
+week() :week 
+month() :month   
+
+--------------------------------------------------------
+return and no argument : 
+
+p :pallindrme function call
+v :vowel function call 
+a :armstrong function call 
+r :reverse number function call 
+s :sum of digit function call 
+c :count function call 
+l :calculator function call 
+f :fibonacci function call 
+i :factorial function call 
+t :three number maximum 
+===================================================
+int | char | float :return and argument 
+
+return and  argument : 
+
+add()
+sub()
+div()
+mod()
+multi()
+---------------------------------------------------
+return and  argument : 
+
+swap() :swap 
+even() :even 
+marksheet()  :marksheet 
+electicity() :electicity 
+week() :week 
+month() :month   
+
+--------------------------------------------------------
+return and  argument : 
+
+p :pallindrme function call
+v :vowel function call 
+a :armstrong function call 
+r :reverse number function call 
+s :sum of digit function call 
+c :count function call 
+l :calculator function call 
+f :fibonacci function call 
+i :factorial function call 
+t :three number maximum 
+=======================================================
+add() : no return and no argument 
+sub() : no return and  argument 
+div() : return and no argument 
+mod() :  return and  argument 
+multi() :  return and  argument 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
